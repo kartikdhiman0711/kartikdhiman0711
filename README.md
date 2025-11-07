@@ -5,8 +5,8 @@
 🔭 Currently crafting digital experiences with **Next.js, Node.js, and PostgreSQL**.  
 🌱 Continuously learning and growing in **Full Stack Development, DevOps, AI integration, and Cybersecurity**.  
 🤝 Open to collaborating on projects that combine innovation, performance, and security.  
-🛠️ **Skills:** MERN Stack | Next.js | AI Integration | Docker | AWS | PostgreSQL | MySQL | Cybersecurity 
-✍️ Sharing insights and helping others grow in tech.  
+🛠️ **Skills:** MERN Stack | Next.js | AI Integration | Docker | AWS | PostgreSQL | MySQL | Cybersecurity   
+✍️ Sharing insights and helping others grow in tech.
 🌍 Based in India — building with purpose and passion.  
 
 ---
