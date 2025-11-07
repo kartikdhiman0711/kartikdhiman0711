@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm Kartik Dhiman  
 
+🎯 **Passionate Web Developer | AI Explorer | Cybersecurity Learner | Builder**
+
+🔭 Currently crafting digital experiences with **Next.js, Node.js, and PostgreSQL**.  
+🌱 Continuously learning and growing in **Full Stack Development, DevOps, AI integration, and Cybersecurity**.  
+🤝 Open to collaborating on projects that combine innovation, performance, and security.  
+🛠️ **Skills:** MERN Stack | Next.js | AI Integration | Docker | AWS | PostgreSQL | MySQL | WordPress | SEO | Cybersecurity | Git & GitHub | Figma | VS Code  
+✍️ Sharing insights and helping others grow in tech.  
+🌍 Based in India — building with purpose and passion.  
+
+---
+
+### 🚀 My Mission  
+To create secure, efficient, and impactful web applications using modern technologies and emerging AI tools.  
+
+---
+
+### 📫 Let's Connect  
+💼 **LinkedIn:** [Kartik Dhiman](https://www.linkedin.com/in/kartikdhiman0711/)  
 <!--
-**kartikdhiman0711/kartikdhiman0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌐 **Portfolio:** [Your Portfolio Website](https://your-portfolio-link.com)  
 -->
+📧 **Email:** kartikdhiman0711@gmail.com  
+
+---
+
+⚡ **Fun Fact:** I enjoy exploring cybersecurity tools, experimenting with AI APIs, and reading GitHub repos for fresh ideas.  
+> “Building the future, one secure line of code at a time.”  
