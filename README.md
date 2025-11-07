@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kartik Dhiman  
 
-🎯 **Passionate Web Developer | AI Explorer | Cybersecurity Learner | Builder**
+🎯 **Passionate Full Stack Developer | AI Explorer | Cybersecurity Learner | Builder**
 
 🔭 Currently crafting digital experiences with **Next.js, Node.js, and PostgreSQL**.  
 🌱 Continuously learning and growing in **Full Stack Development, DevOps, AI integration, and Cybersecurity**.  
