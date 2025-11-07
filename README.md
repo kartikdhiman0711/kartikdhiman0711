@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kartik Dhiman  
+# 👋 Hey, I'm Kartik  
 
 🎯 **Passionate Full Stack Developer | AI Explorer | Cybersecurity Learner | Builder**
 
