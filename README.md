@@ -17,8 +17,7 @@ To create secure, efficient, and impactful web applications using modern technol
 ---
 
 ### 📫 Let's Connect  
-💼 **LinkedIn:** [Kartik Dhiman](https://www.linkedin.com/in/kartikdhiman0711/)  
-📧 **Email:** kartikdhiman0711@gmail.com  
+💼 **LinkedIn:** [Kartik Dhiman](https://www.linkedin.com/in/kartikdhiman0711/)
 <!--
 🌐 **Portfolio:** [Your Portfolio Website](https://your-portfolio-link.com)  
 -->
